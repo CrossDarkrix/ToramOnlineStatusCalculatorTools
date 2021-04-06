@@ -3,10 +3,13 @@
 
 ## 使い方
 *プレイヤーの異常耐性計算*
+
 python3 Abnormal_Tolerance_Calculator.py
 
 *プレイヤーのクリティカル率計算*
+
 python3 Critical_Calculator.py
 
 *プレイヤーのクリティカルダメージ計算*
+
 python3 Critical _Damage_Calculator.py
