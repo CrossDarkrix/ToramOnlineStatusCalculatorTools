@@ -1,6 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 
-print("装備による異常耐性率の計算ツール\n(MEN: 255の場合)\n")
+print("装備による異常耐性率の計算ツール\n")
 try:
 	stutus = int(input("MEN: "))
 except:
