@@ -13,4 +13,3 @@
 *プレイヤーのクリティカルダメージ計算*
 
 `python3 Critical_Damage_Calculator.py`
-
